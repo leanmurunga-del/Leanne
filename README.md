@@ -1,14 +1,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hi Njoki!</title>
+    <title>Welcome!</title>
     <style>
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #fce4ec;
+            background-color: #00A7E1;
             font-family: Arial, sans-serif;
             text-align: center;
         }
@@ -25,9 +25,9 @@
 </head>
 <body>
     <div>
-        <h1>Hi Njoki!Miss Bossette</h1>
-        <p>I made this for you.Don't be sad we love your smile...lol I'm outta here!!!</p>
-        <button onclick="alert('Would you like some Naivas Mandazis,,,umeyaawwnn🌟')">Click Me!</button>
+        <h1>Welcome to Bossette's OnlyFans Channel</h1>
+        <p>To Access Content Kindly Request Account to make Payment</p>
+        <button onclick="alert('A Link has been sent to Joan Njoki, once verified you will be redirected to the page')">Verify!</button>
     </div>
 </body>
 </html>
